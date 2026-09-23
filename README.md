@@ -1,6 +1,7 @@
 
 # Dockerized Flask DevOps Project
 
+![Flask Docker CI](https://github.com/chinmmayipedapati/docker-flask-devops/actions/workflows/ci.yml/badge.svg)
 A Python Flask web application containerized using
 Docker and managed using Docker Compose.
 
